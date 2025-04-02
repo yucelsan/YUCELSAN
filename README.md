@@ -6,24 +6,23 @@
 # YUCELSAN [www.github.com/yucelsan](https://www.github.com/yucelsan)
 # L'excellence dans le Scripting Linux et l'Automatisation
 ```bash
-## 🚀 Bienvenue sur le GitHub de YUCELSAN
+## Bienvenue sur le GitHub de YUCELSAN
 
-Bienvenue dans l'univers du scripting Linux, de l'automatisation et de la gestion d'infrastructure.
-Ce dépôt regroupe des scripts Bash, Python, YAML optimisés pour l'administration système, la sécurité, la virtualisation,
-la conteneurisation et le déploiement cloud.
+Plongez dans l'univers du scripting Linux, de l'automatisation et de la gestion d'infrastructures.
+Ce dépôt regroupe des scripts Bash, Python, Powershell, YAML, Dockerfile optimisés pour l'administration système, la sécurité, la virtualisation, la conteneurisation et le déploiement cloud.
 
-## 🔥 Technologies & Outils
+## Technologies & Outils
 
-- 🐧 **Scripting Bash / Python** - Scripting Linux
-- 🎛️ **Ansible** - Automatisation, Configuration et Déploiement
-- 🔄 **DevOps** - CI/CD, Infrastructure as Code (IaC), Terraform, Gitlab...
-- ☁️ **Cloud** - AWS | Azure | GCP
-- 🏗️ **Virtualisation** - VMware | Hyper-V | Nutanix
-- 🔐 **Sécurité** - Hardening Linux | Pentesting
-- 🐳 **Containers** - Docker | Kubernetes
-- 🌍 **Web & SEO** - Création de sites vitrines & e-commerce optimisés
+- **Scripting Bash / Python** - Scripting Linux
+- **Ansible** - Automatisation, Configuration et Déploiement
+- **DevOps** - CI/CD, Infrastructure as Code (IaC), Terraform, Gitlab...
+- **Cloud** - AWS | Azure | GCP
+- **Virtualisation** - VMware | Hyper-V | Nutanix
+- **Sécurité** - Hardening Linux | Pentesting
+- **Containers** - Docker | Kubernetes
+- **Web & SEO** - Création de sites vitrines & e-commerce optimisés
 
-## 📜 Scripts Disponibles
+## Scripts Disponibles
 
 ### 🔹 [Automatisation & DevOps](Scripts/devops)
 - Installation automatique de serveurs Linux et environnements Web
@@ -40,16 +39,16 @@ la conteneurisation et le déploiement cloud.
 - Gestion et migration de VM (VMware, Nutanix)
 - Automatisation via Terraform
 
-## 🛠️ Installation
+## Installation
 
 Clonez ce repo pour utiliser les scripts :
 
-git clone https://github.com/yucelsan/infra-scripts.git
+git clone https://github.com/yucelsan.git
 cd infra-scripts
 chmod +x *.sh
 ```
 
-## 🏴‍☠️ Exemple d'Exécution
+## Exemple d'Exécution
 
 Voici un exemple d'exécution d'un script Bash qui durcit un serveur Linux :
 
@@ -57,18 +56,18 @@ Voici un exemple d'exécution d'un script Bash qui durcit un serveur Linux :
 ./secure-linux.sh --firewall --fail2ban --disable-root
 ```
 
-## 📢 Contact & Support
+## Contact & Support
 
-- 📧 Email : contact@yucelsan.fr
-- 🌐 Site Web : [www.yucelsan.fr](https://www.yucelsan.fr)
-- 🐧 LinkedIn : [YUCELSAN Company](https://www.linkedin.com/company/yucelsan-fr)
-- 🐙 GitHub :   [YUCELSAN Github](https://github.com/yucelsan) 
-- 🌍 Réalisations : [Nos réalisations web](https://www.yucelsan.fr/nos-realisations)
+- Email : contact@yucelsan.fr
+- Site Web : [www.yucelsan.fr](https://www.yucelsan.fr)
+- LinkedIn : [YUCELSAN Company](https://www.linkedin.com/company/yucelsan-fr)
+- GitHub :   [YUCELSAN Github](https://github.com/yucelsan) 
+- Réalisations : [Nos réalisations web](https://www.yucelsan.fr/nos-realisations)
 
-## 📜 Licence
+## Licence
 
-Ce projet est sous licence **MIT** - Faites-en bon usage ! 🔥
+Ce projet est sous licence **MIT** - Faites-en bon usage !
 
 ```bash
-# YUCELSAN - Automatisation, Sécurité, Cloud, Virtualisation, DevOps 🚀
+# YUCELSAN - Automatisation, Sécurité, Cloud, Virtualisation, DevOps
 ```

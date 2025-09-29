@@ -56,13 +56,6 @@ Voici un exemple d'exécution d'un script Bash qui durcit un serveur Linux :
 ./secure-linux.sh --firewall --fail2ban --disable-root
 ```
 
-## Contact & Support
-
-- Email : contact@yucelsan.fr
-- Site Web : [www.yucelsan.fr](https://www.yucelsan.fr)
-- LinkedIn : [YUCELSAN Company](https://www.linkedin.com/company/yucelsan-fr)
-- GitHub :   [YUCELSAN Github](https://github.com/yucelsan) 
-- Réalisations : [Nos réalisations web](https://www.yucelsan.fr/nos-realisations)
 
 ## Licence
 
